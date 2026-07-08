@@ -14,6 +14,7 @@ Shaoxiong Zhan, Yanlin Lai, Zheng Liu, Hai Lin, Shen Li, Xiaodong Cai, Zijian Li
 
 ---
 
+
 > **TL;DR** — VLMs with Olympiad-level reasoning still fail at *elementary* spatial tasks such as counting occluded blocks. We show this is **not** a weak-encoder problem but a missing **view-consistent spatial interface**. **3ViewSense** teaches a VLM to first *mentally simulate* the canonical orthographic views (front / left / top) of a scene, then *reason* on top of those views — a **Simulate-and-Reason** pipeline that turns a 4B model into a strong spatial reasoner and transfers to five external benchmarks.
 
 ## 🧠 Method: The 3ViewSense Framework
