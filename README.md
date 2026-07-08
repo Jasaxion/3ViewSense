@@ -90,12 +90,10 @@ PYTHONPATH=.. python eval_vlm_with_api.py --models gpt-4o --split full       # A
 ## 📝 Citation
 
 ```bibtex
-@inproceedings{zhan2026threeviewsense,
-  title     = {3ViewSense: Spatial and Mental Perspective Reasoning from Orthographic Views in Vision-Language Models},
-  author    = {Zhan, Shaoxiong and Lai, Yanlin and Liu, Zheng and Lin, Hai and Li, Shen and Cai, Xiaodong and Lin, Zijian and Huang, Wen and Zheng, Hai-Tao},
-  booktitle = {Proceedings of the International Conference on Machine Learning (ICML)},
-  year      = {2026}
+@article{zhan20263viewsense,
+  title={3viewsense: Spatial and mental perspective reasoning from orthographic views in vision-language models},
+  author={Zhan, Shaoxiong and Lai, Yanlin and Liu, Zheng and Lin, Hai and Li, Shen and Cai, Xiaodong and Lin, Zijian and Huang, Wen and Zheng, Hai-Tao},
+  journal={arXiv preprint arXiv:2603.07751},
+  year={2026}
 }
 ```
-
-This project is released under the [MIT License](LICENSE).
