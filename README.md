@@ -6,7 +6,6 @@
 <a href="https://arxiv.org/abs/2603.07751"><img src="https://img.shields.io/badge/arXiv-2603.07751-b31b1b.svg" alt="arXiv"></a>
 <a href="https://arxiv.org/pdf/2603.07751"><img src="https://img.shields.io/badge/Paper-PDF-blue.svg" alt="PDF"></a>
 <a href="https://github.com/Jasaxion/3ViewSense"><img src="https://img.shields.io/badge/Code-GitHub-black.svg" alt="Code"></a>
-<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 </p>
 
 Shaoxiong Zhan, Yanlin Lai, Zheng Liu, Hai Lin, Shen Li, Xiaodong Cai, Zijian Lin, Wen Huang, Hai-Tao Zheng
